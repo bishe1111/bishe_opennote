@@ -30,4 +30,4 @@ telegram: t.me/ildbishe ,
 chat: t.me/ildbishegp
 
 # cotributing
-send request in pol-request or isiu
+send request in pull-request or issue
