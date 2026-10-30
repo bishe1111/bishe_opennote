@@ -31,4 +31,4 @@ mk to write,rd to read and ex to exit
 [chat](t.me/ildbishegp)
 
 # contributing
-send your request for contribiuting in pull-request or issue.or in discussion
+send your request for contributing in pull-request or issue.or in discussion
