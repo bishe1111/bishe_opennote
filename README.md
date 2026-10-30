@@ -27,8 +27,8 @@ clang++ main.cpp -o note
 ```
 mk to write,rd to read and ex to exit
 # connect us
-telegram: t.me/ildbishe ,
-chat: t.me/ildbishegp
+[telegram](https://t.me/ildbishe) |
+[chat](t.me/ildbishegp)
 
 # contributing
 send your request for contribiuting in pull-request or issue.or in discussion
