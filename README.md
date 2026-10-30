@@ -21,6 +21,7 @@ cd opennote
 ```
 then:
 ```bash
+cd src
 clang++ main.cpp -o note
 ./note
 ```
@@ -29,5 +30,5 @@ mk to write,rd to read and ex to exit
 telegram: t.me/ildbishe ,
 chat: t.me/ildbishegp
 
-# cotributing
-send request in pull-request or issue
+# contributing
+send your request for contribiuting in pull-request or issue.or in discussion
