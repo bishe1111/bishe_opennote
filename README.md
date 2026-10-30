@@ -1,1 +1,33 @@
 # opennote
+
+it is a termial-base simple note.
+
+# how to use?
+
+first install clang(clang++):
+```bash
+//in debian
+sudo apt install clang
+//in fedora
+sudo dnf install clang
+//in arch
+sudo pacman -S clang
+```
+
+then download opennote:
+```bash
+git clone https://github.com/bishe1111/opennote.git
+cd opennote
+```
+then:
+```bash
+clang++ main.cpp -o note
+./note
+```
+mk to write,rd to read and ex to exit
+# connect us
+telegram: t.me/ildbishe ,
+chat: t.me/ildbishegp
+
+# cotributing
+send request in pol-request or isiu
