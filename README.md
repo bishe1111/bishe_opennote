@@ -17,7 +17,7 @@ sudo pacman -S clang
 then download opennote:
 ```bash
 git clone https://github.com/bishe1111/bishe_opennote.git
-cd opennote
+cd bishe_opennote
 ```
 then:
 ```bash
